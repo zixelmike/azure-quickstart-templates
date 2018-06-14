@@ -17,7 +17,7 @@
     "mysqlPassword": {
       "type": "securestring",
       "metadata": {
-        "description": "Password for the openvpn user."
+        "description": "Password for the mysqlPassword user."
       }
     },
     "dnsNamePrefix": {
